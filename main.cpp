@@ -53,5 +53,5 @@ void colat(int semilla){
         }
 
     }
-    cout<<" Y genera una serie de "<<contador<<"terminos";
+    cout<<" Y genera una serie de "<<contador<<" terminos"<<endl;
 }
